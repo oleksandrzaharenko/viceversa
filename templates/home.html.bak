@@ -12,7 +12,7 @@
 </style>	
 </head>
 <body>
-	<h1>Vice Versa1_status</h1>
+	<h1>Vice Versa1</h1>
 	<div>
 		<textarea rows = "10" cols = "50"></textarea>
 	</div>
